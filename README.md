@@ -2,7 +2,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 ![GitHub go.mod Go version][goversion-url]
 ![Go Report Card][goreport-url]
-[![codecov](https://codecov.io/gh/michaelmcallister/sierpinski/branch/main/graph/badge.svg?token=MP9P5F9IRF)](https://codecov.io/gh/michaelmcallister/sierpinski)
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
